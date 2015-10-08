@@ -1,3 +1,3 @@
 <?php
-   echo "Hello, I'm version 1\n";
+   echo "Olá, estou na versão 1\n";
 ?>
