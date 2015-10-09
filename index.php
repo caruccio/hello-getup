@@ -1,3 +1,3 @@
 <?php
-   echo "Olá, estou na versão 1, no container " . getenv("HOSTNAME") . "\n";
+   echo "Olá, sou a versão 1, estou no POD: " . getenv("HOSTNAME") . "\n";
 ?>
