@@ -1,3 +1,3 @@
 <?php
-   echo "Olá, sou a versão BB, estou no POD: " . getenv("SERVER_ADDR") . "\n";
+   echo "Olá, sou a versão B, estou no POD: " . getenv("SERVER_ADDR") . "\n";
 ?>
